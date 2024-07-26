@@ -32,7 +32,7 @@ public class Student {
 
         /**
          * Used to update the student's grade.
-         * @param grade new grade of the student.         *
+         * @param grade new grade of the student
          */
 
         public void setGrade(int grade) {
