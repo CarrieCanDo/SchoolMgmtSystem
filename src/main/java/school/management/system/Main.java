@@ -2,6 +2,7 @@ package school.management.system;
 
 import java.util.ArrayList;
 import java.util.List;
+import school.management.system.School;
 
 public class Main {
     public static void main(String[] args) {
